@@ -6,7 +6,7 @@ This is the first time I created a Repository on github.
 
 >Here's a try of markdown
 
-![octocat.png](https://github.com/wangyxhaha/wangyxhaha.github.io/blob/master/octocat.png "Yes!This is my octocat")
+![octocat.png](https://github.com/wangyxhaha/wangyxhaha.github.io/blob/master/octocat.png "Yes!This is my octocat!I love fishing!")
 
 I'm just a middle school student.I'm so lame.
 - [x] c
