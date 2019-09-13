@@ -5,3 +5,12 @@
 This is the first time I created a Repository on github.
 
 >Here's a try of markdown
+
+
+I'm just a middle school student.I'm so lame.
+- [x] c
+- [x] cpp 
+- [ ] python
+- [ ] java
+- [ ] c#
+- [ ] ...
